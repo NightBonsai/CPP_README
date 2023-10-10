@@ -2,7 +2,7 @@
 
 ## 目录
 [1.C&C++语言基础](https://github.com/NightBonsai/C-C-_programming/blob/main/%E7%AC%94%E8%AE%B0/1.C%26C%2B%2B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.md)<br>
-[2.输入输出&运算符]()<br>
+[2.输入输出&运算符](https://github.com/NightBonsai/C-C-_programming/blob/main/%E7%AC%94%E8%AE%B0/2.%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA&%E8%BF%90%E7%AE%97%E7%AC%A6.md)<br>
 [3.控制语句]()<br>
 [4.数组&字符串]()<br>
 [5.函数]()<br>
