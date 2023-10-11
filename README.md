@@ -14,7 +14,7 @@
 [**11.类&对象**](https://github.com/NightBonsai/C-C-_programming/blob/main/%E7%AC%94%E8%AE%B0/11.%E7%B1%BB&%E5%AF%B9%E8%B1%A1.md)<br>
 [**12.类继承**](https://github.com/NightBonsai/C-C-_programming/blob/main/%E7%AC%94%E8%AE%B0/12.%E7%B1%BB%E7%BB%A7%E6%89%BF.md)<br>
 [**13.多态&虚函数**](https://github.com/NightBonsai/C-C-_programming/blob/main/%E7%AC%94%E8%AE%B0/13.%E5%A4%9A%E6%80%81&%E8%99%9A%E5%87%BD%E6%95%B0.md)<br>
-[14.友元&运算符重载]()<br>
+[14.友元&运算符重载](https://github.com/NightBonsai/C-C-_programming/blob/main/%E7%AC%94%E8%AE%B0/14.%E5%8F%8B%E5%85%83&%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD.md)<br>
 [15.模板]()<br>
 [16.STL]()<br>
 
