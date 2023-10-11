@@ -12,7 +12,7 @@
 [9.文件](https://github.com/NightBonsai/C-C-_programming/blob/main/%E7%AC%94%E8%AE%B0/9.%E6%96%87%E4%BB%B6.md)<br>
 [10.面向对象方法(Object Oriented Programming)](https://github.com/NightBonsai/C-C-_programming/blob/main/%E7%AC%94%E8%AE%B0/10.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%96%B9%E6%B3%95(Object%20Oriented%20Programming).md)<br>
 [**11.类&对象**](https://github.com/NightBonsai/C-C-_programming/blob/main/%E7%AC%94%E8%AE%B0/11.%E7%B1%BB&%E5%AF%B9%E8%B1%A1.md)<br>
-[**12.类继承**]()<br>
+[**12.类继承**](https://github.com/NightBonsai/C-C-_programming/blob/main/%E7%AC%94%E8%AE%B0/12.%E7%B1%BB%E7%BB%A7%E6%89%BF.md)<br>
 [**13.多态&虚函数**]()<br>
 [14.友元&运算符重载]()<br>
 [15.模板]()<br>
